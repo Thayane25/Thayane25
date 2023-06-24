@@ -8,7 +8,7 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thayane25&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&hide_border=false&title_color=c50c36&text_color=ffffe4&bg_color=030D21&order=2" height="180" alt="languages graph"  />
-<img src="https://streak-stats.demolab.com?user=thayane25&locale=pt_BR&card_width=320&border=ffffff&background=030d21&stroke=c50c36&ring=c50c36&fire=c50c36&currStreakNum=ffffe4&sideNums=ffffe4&currStreakLabel=c50c36&sideLabels=ffffe4&dates=ffffe4&excludeDaysLabel=ffffe4)](https://git.io/streak-stats" height="180" />
+<img src="https://streak-stats.demolab.com?user=thayane25&locale=pt_BR&card_width=320&border=ffffff&background=030d21&stroke=c50c36&ring=c50c36&fire=c50c36&currStreakNum=ffffe4&sideNums=c50c36&currStreakLabel=c50c36&sideLabels=ffffe4&dates=ffffe4&excludeDaysLabel=ffffe4)](https://git.io/streak-stats" height="180" />
 </div>
 
 ###
