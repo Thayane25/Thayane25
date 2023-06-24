@@ -4,21 +4,42 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thayane25&bg_color=030d21&color=ffffe4&line=c50c36&point=ffffe4&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thayane25&show_icons=true&count_private=true&hide_border=false&title_color=c50c36&icon_color=c50c36&text_color=ffffe4&bg_color=030D21" alt="Thayane Lima github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayane25&layout=compact&hide_border=false&title_color=c50c36&text_color=c50c36&bg_color=030D21" />
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thayane25&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&hide_border=false&title_color=c50c36&text_color=c50c36&bg_color=030D21&order=2" height="200" alt="languages graph"  />
+<img src="https://streak-stats.demolab.com?user=thayane25&locale=pt_BR&border=ffffe4&background=030d21&stroke=EB5454&ring=EB5454&fire=EB5454&currStreakNum=ffffe4&sideNums=ffffe4&currStreakLabel=EB5454&sideLabels=EB5454&dates=ffffe4&excludeDaysLabel=ffffe4)](https://git.io/streak-stats" height="200"/>
 </div>
 
-### Studying in this moment:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=EC6231&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+###
 
-<div align="right"> 
-  <h2>Contatos</h2>
-<a href = "mailto:thayaneramoslima25@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/thayanerl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+<h4 align="center">Estudando atualmente:</h4>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
+</div>
+
+###
+
+<h4 align="center">Contatos:</h4>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/thayanerl/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=030D21&logoColor=FFFFE4&labelColor=030D21&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=030D21&logoColor=FFFFE4&labelColor=030D21&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=030D21&logoColor=FFFFE4&labelColor=030D21&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
+
+###
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c50c36&height=120&section=footer"/>
 
