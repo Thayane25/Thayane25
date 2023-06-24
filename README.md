@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffe4&size=40&center=true&vCenter=true&width=1000&lines=Olá!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thayane25&bg_color=030d21&color=ffffe4&line=c50c36&point=ffffe4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thayane25&bg_color=030d21&color=ffffe4&line=c50c36&point=ffffe4&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thayane25&show_icons=true&count_private=true&hide_border=true&title_color=c50c36&icon_color=c50c36&text_color=ffffe4&bg_color=030D21" alt="Thayane Lima github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayane25&layout=compact&hide_border=true&title_color=c50c36&text_color=c50c36&bg_color=030D21" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thayane25&show_icons=true&count_private=true&hide_border=false&title_color=c50c36&icon_color=c50c36&text_color=ffffe4&bg_color=030D21" alt="Thayane Lima github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayane25&layout=compact&hide_border=false&title_color=c50c36&text_color=c50c36&bg_color=030D21" />
 </div>
 
 ### Studying in this moment:
