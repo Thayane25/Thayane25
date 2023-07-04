@@ -7,8 +7,8 @@
 
 <div align="center">
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=thayane25&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&hide_border=false&title_color=c50c36&text_color=ffffef&bg_color=0D1117&order=2" alt="languages graph"  />
-<img width="41%" height="195px" src="https://streak-stats.demolab.com?user=thayane25&locale=pt_BR&card_width=320&border=ffffff&background=0D1117&stroke=c50c36&ring=c50c36&fire=c50c36&currStreakNum=ffffef&sideNums=c50c36&currStreakLabel=c50c36&sideLabels=ffffe4&dates=ffffef&excludeDaysLabel=ffffe4)](https://git.io/streak-stats" />
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=thayane25&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&hide_border=false&title_color=c50c36&text_color=ffffef&bg_color=0D1117&order=2" alt="languages graph"  />
+<img width="49%" height="200px" src="https://streak-stats.demolab.com?user=thayane25&locale=pt_BR&card_width=320&border=ffffff&background=0D1117&stroke=c50c36&ring=c50c36&fire=c50c36&currStreakNum=ffffef&sideNums=c50c36&currStreakLabel=c50c36&sideLabels=ffffe4&dates=ffffef&excludeDaysLabel=ffffe4)](https://git.io/streak-stats" />
 </div>
 
 ###
